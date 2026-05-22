@@ -1,6 +1,23 @@
-md_content = """# AEON Bank Mobile Engineer Assessment
+# AEON Bank Mobile Engineer Assessment
 
 This repository contains the solution for the AEON Bank Mobile Engineer Assessment. It is a React Native application that allows users to view a list of recent transactions, see transaction details, and share receipts using the device's native share capabilities.
+
+## 📸 App Showcase
+
+<table>
+  <tr>
+    <td align="center"><b>Transaction List</b></td>
+    <td align="center"><b>Outgoing Detail</b></td>
+    <td align="center"><b>Incoming Detail</b></td>
+    <td align="center"><b>Share Integration</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./screenshots/list.png" alt="Transaction List" width="220" /></td>
+    <td align="center"><img src="./screenshots/detail_red.png" alt="Outgoing Detail" width="220" /></td>
+    <td align="center"><img src="./screenshots/detail.png" alt="Incoming Detail" width="220" /></td>
+    <td align="center"><img src="./screenshots/share.png" alt="Share Sheet" width="220" /></td>
+  </tr>
+</table>
 
 ## 🛠 Tech Stack
 * **Framework:** React Native (CLI)
@@ -19,16 +36,6 @@ Before running the application, ensure you have the following installed:
 ## 🚀 Installation & Setup
 
 1. **Clone the repository:**
-
-## 📸 App Showcase
-
-<div align="center">
-  <img src="./screenshots/list.png" alt="Transaction List" width="250" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="./screenshots/detail_red.png" alt="Transaction Detail" width="250" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="./screenshots/detail.png" alt="Transaction Detail" width="250" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="./screenshots/share.png" alt="Share Sheet" width="250" />
-  
-</div>
+   ```bash
+   git clone [https://github.com/imransiddiqui511/aeon-mobile-assessment.git](https://github.com/imransiddiqui511/aeon-mobile-assessment.git)
+   cd aeon-mobile-assessment
